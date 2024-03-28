@@ -18,6 +18,7 @@ body {
 }
 
 body.hidden-scroll {
+    -webkit-overflow-scrolling: hidden;
     overflow: hidden;
 }
 
