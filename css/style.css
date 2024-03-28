@@ -184,7 +184,7 @@ header .container .headerContent>ul.nav>li a:hover {
 .container .box-content .box {
     border-radius: 10px;
     padding: 20px;
-    box-shadow: 0 0 6px #eee;
+    box-shadow: 0 0 6px #ccc;
     cursor: pointer;
     text-align: center;
 }
